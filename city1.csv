@@ -1,0 +1,16 @@
+cidade_origem;cidade_destino;distancia_km
+Porto;Lisboa;313
+Porto;Braga;55
+Porto;Aveiro;75
+Lisboa;Coimbra;205
+Lisboa;Faro;278
+Coimbra;Aveiro;65
+Coimbra;Leiria;72
+Braga;Guimarães;25
+Braga;Viana do Castelo;48
+Faro;Beja;152
+Évora;Beja;80
+Évora;Lisboa;132
+Guarda;Coimbra;160
+Viseu;Guarda;75
+Viseu;Aveiro;85
